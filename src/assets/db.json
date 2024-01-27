@@ -1,0 +1,38 @@
+{
+    "db": [
+      {
+        "userid": 1,
+        "name": "John Doe",
+        "followers": 500,
+        "likes": 1000,
+        "posts": 20,
+        "image_url": "https://imgs.search.brave.com/3JF6DZ4V8BRtrb3xITq1TlaebhXVMPltEYDcd-Cw8m0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9waXhs/ci5jb20vaW1nL21p/c2MvbG9naW4taW5m/by53ZWJw",
+        "age": 25,
+        "city": "New York",
+        "banner_url": "https://imgs.search.brave.com/3xzBYKlJoMQwPWpLdJUVmH2DS_KYmcipWKjHgP4UkgM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YmVmdW5reS5jb20v/aW1hZ2VzL3ByaXNt/aWMvYzEzMGM5YTYt/ZTQxNC00Mzk0LTgx/ODctMTIyMzNlNDE0/NGY3X2hlcm8tcGhv/dG8tZWZmZWN0cy0x/LmpwZz9hdXRvPWF2/aWYsd2VicCZmb3Jt/YXQ9anBnJndpZHRo/PTg5Ng"
+      },
+      {
+        "userid": 2,
+        "name": "Jane Smith",
+        "followers": 300,
+        "likes": 800,
+        "posts": 15,
+        "image_url": "https://imgs.search.brave.com/Nz0Qgx93xUxeEXmUmGGMvfsNf541G5VnmmjOXZL2tLk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9waXhs/ci5jb20vaW1nL3Rv/b2wvY29sb3JpemUt/aW5mby53ZWJw",
+        "age": 30,
+        "city": "San Francisco",
+        "banner_url": "https://imgs.search.brave.com/C6AWBkpYQi10oO8ACyxY5VZ5aih2QZG2nPmwjD7KnEY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YmVmdW5reS5jb20v/aW1hZ2VzL3ByaXNt/aWMvNjExYzJkODUt/MWE4My00Mjg5LTk4/OTItYmVkNDhkOGRk/ODcwX2hlcm8tcGhv/dG8tZWZmZWN0cy0x/LmpwZz9hdXRvPWF2/aWYsd2VicCZmb3Jt/YXQ9anBnJndpZHRo/PTg5Ng"
+      },
+      {
+        "userid": 3,
+        "name": "Bob Johnson",
+        "followers": 700,
+        "likes": 1200,
+        "posts": 25,
+        "image_url": "https://imgs.search.brave.com/oa29NSOn-3-okEL304jhyE6O5bNU--h44MWLiZ6lT5Y/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9waXhs/ci5jb20vaW1nL3Rv/b2wvZ2xpdGNoLWlu/Zm8ud2VicA",
+        "age": 22,
+        "city": "Los Angeles",
+        "banner_url": "https://imgs.search.brave.com/V74FZur9NBdqHhyy8wXP7bKTFobpXv3BBvGn5bGpSQs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pcGlj/Y3kuY29tL3Jlcy90/ZW1wbGF0ZS9pbWcv/aHBfdjIvcGljcy9i/YS0wMXMzLmpwZw"
+      }
+    ]
+  }
+  
